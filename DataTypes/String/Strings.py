@@ -14,5 +14,5 @@ Creating strings is as simple as assigning a value to a variable.
 course='python'
 course_1="python"
 
-print ("Single Quotes :, course")
-print ("Double Quotes :, course_1")
+print ("Single Quotes :", course)
+print ("Double Quotes :", course_1)
