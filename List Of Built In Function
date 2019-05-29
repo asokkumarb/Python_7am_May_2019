@@ -1,0 +1,5 @@
+1. print () - to call variable and to print string
+
+2. type () -  to know type of Variable ( Int, Float, Boolean )
+
+3. len () - to know length of string
