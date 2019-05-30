@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29dd4642-1c72-4b34-8b2e-247ad40bc66b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/String/Count.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/String/capitalize.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/String/format_method_stringspecial.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataTypes/string_special_opertors.py" afterPath="$PROJECT_DIR$/DataTypes/string_special_opertors.py" />
-    </list>
+    <list default="true" id="29dd4642-1c72-4b34-8b2e-247ad40bc66b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
