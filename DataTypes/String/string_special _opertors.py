@@ -24,10 +24,4 @@ print ("updated string ", str1[:6] + "planet")  # Concatenation
 print ("updated string ", str1[:12] + "Perl")
 
 
-# formatting of strings
 
-print ("Your name is %s and your account id is %d" %("Kevin",14456))
-print ("Calling str1 {0} and calling str2 {1}".format(str1,str2))
-print ("Value1 {} Value2 {} and Value3 {}".format("python",100,"pycharm"))
-print ("Value1 {1} Value2 {0} and Value3 {2}".format("python",100,"pycharm"))
-print ("Value1 {a} Value2 {b} and Value3 {c}".format(a="python",b=100,c="pycharm"))
