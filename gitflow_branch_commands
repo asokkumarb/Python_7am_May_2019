@@ -1,0 +1,43 @@
+
+STEP-1 : Clone to Local Machine :
+
+git clone https://github.com/keshavkummari/Python_7am_May_2019.git
+
+STEP-2 : Go Inside the Repo :
+
+cd Python_7am_May_2019
+
+ls -lrta 
+
+.git 
+
+STEP-3 : gitflow commands 
+
+git status
+
+git branch
+
+git branch -r 
+
+git branch jessi
+
+git checkout jessi
+
+pwd
+
+ls -lrta
+
+touch jessi.txt
+
+git status
+
+git add .
+
+git status
+
+git commit -m "Jessi Branch"
+
+git status
+
+git push -u origin jessi
+
