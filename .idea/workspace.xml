@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29dd4642-1c72-4b34-8b2e-247ad40bc66b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/Join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/endswith.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/lower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/replace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/rjust.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/split.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/startswith.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/strip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/swapcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/String/upper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29dd4642-1c72-4b34-8b2e-247ad40bc66b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +9,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/String/ljust.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/List Of Built In Function">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,12 +70,13 @@
         <option value="$PROJECT_DIR$/DataTypes/String/upper.py" />
         <option value="$PROJECT_DIR$/DataTypes/String/swapcase.py" />
         <option value="$PROJECT_DIR$/DataTypes/String/rjust.py" />
+        <option value="$PROJECT_DIR$/DataTypes/String/ljust.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="650" />
-    <option name="y" value="355" />
+    <option name="x" value="391" />
+    <option name="y" value="80" />
     <option name="width" value="1445" />
     <option name="height" value="1040" />
   </component>
@@ -113,6 +117,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HD\Python_7am_May_2019\DataTypes\String" />
       <recent name="C:\Users\HD\Python_7am_May_2019\Git config and command" />
     </key>
   </component>
@@ -283,7 +288,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="520" y="284" width="1156" height="832" extended-state="0" />
+    <frame x="313" y="64" width="1156" height="832" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2725648" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -314,13 +319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/List Of Built In Function">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -476,6 +474,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/String/rjust.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/String/ljust.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List Of Built In Function">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
