@@ -2,196 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29dd4642-1c72-4b34-8b2e-247ad40bc66b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/List/List_DataTypes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/List/List_Methods.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/Numbers/Numbers_Decimals.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/Numbers/Numbers_Methods.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Jinja2-2.10.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MarkupSafe-1.1.1-cp36-cp36m-macosx_10_6_intel.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PyJWT-1.7.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PyNaCl-1.3.0-cp34-abi3-macosx_10_6_intel.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PyYAML-5.1.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Pygments-2.4.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/adal-1.2.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/antlr4-python3-runtime-4.7.2.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/applicationinsights-0.11.9-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/argcomplete-1.10.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/asn1crypto-0.24.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure-cli-shell-0.2.2.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_batch-6.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli-2.0.65-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_acr-2.2.7-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_acs-2.4.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_advisor-2.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_ams-0.4.6-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_appservice-0.2.20-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_backup-1.2.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_batch-4.0.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_batchai-0.4.9-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_billing-0.2.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_botservice-0.2.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_cdn-0.2.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_cloud-2.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_cognitiveservices-0.2.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_command_modules_nspkg-2.0.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_configure-2.0.23-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_consumption-0.4.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_container-0.3.17-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_core-2.0.65-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_cosmosdb-0.2.10-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_deploymentmanager-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_dla-0.2.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_dls-0.1.9-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_dms-0.1.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_eventgrid-0.2.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_eventhubs-0.3.6-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_extension-0.2.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_feedback-2.2.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_find-0.3.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_hdinsight-0.3.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_interactive-0.4.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_iot-0.3.9-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_iotcentral-0.1.6-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_keyvault-2.2.15-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_kusto-0.2.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_lab-0.1.7-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_maps-0.3.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_monitor-0.2.14-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_natgateway-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_network-2.5.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_nspkg-3.0.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_policyinsights-0.1.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_privatedns-1.0.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_profile-2.1.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_rdbms-0.3.11-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_redis-0.4.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_relay-0.1.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_reservations-0.4.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_resource-2.1.14-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_role-2.6.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_search-0.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_security-0.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_servicebus-0.3.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_servicefabric-0.1.19-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_signalr-1.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_sql-2.2.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_sqlvm-0.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_storage-2.4.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_telemetry-1.0.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_cli_vm-2.2.21-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_common-1.1.21-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_datalake_store-0.0.39-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_functions_devops_build-0.0.22-py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_graphrbac-0.60.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_keyvault-1.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_advisor-2.0.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_applicationinsights-0.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_authorization-0.50.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_batch-6.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_batchai-2.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_billing-0.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_botservice-0.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_cdn-3.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_cognitiveservices-3.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_compute-5.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_consumption-2.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_containerinstance-1.4.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_containerregistry-2.8.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_containerservice-5.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_cosmosdb-0.5.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_datalake_analytics-0.2.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_datalake_nspkg-3.0.1-py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_datalake_store-0.5.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_datamigration-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_deploymentmanager-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_devtestlabs-2.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_dns-2.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_eventgrid-2.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_eventhub-2.6.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_hdinsight-0.2.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_iotcentral-1.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_iothub-0.7.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_iothubprovisioningservices-0.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_keyvault-1.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_kusto-0.3.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_loganalytics-0.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_managementgroups-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_maps-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_marketplaceordering-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_media-1.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_monitor-0.5.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_msi-0.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_network-2.7.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_nspkg-3.0.2-py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_policyinsights-0.3.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_privatedns-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_rdbms-1.8.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_recoveryservices-0.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_recoveryservicesbackup-0.1.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_redis-6.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_relay-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_reservations-0.3.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_resource-2.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_search-2.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_security-0.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_servicebus-0.6.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_servicefabric-0.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_signalr-0.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_sql-0.12.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_sqlvirtualmachine-0.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_storage-3.3.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_trafficmanager-0.51.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_mgmt_web-0.41.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_multiapi_storage-0.2.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_nspkg-3.0.2-py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_storage_blob-1.3.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_storage_common-1.4.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/azure_storage_nspkg-3.1.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bcrypt-3.1.6-cp34-abi3-macosx_10_6_intel.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/certifi-2019.3.9-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cffi-1.12.3-cp36-cp36m-macosx_10_6_intel.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chardet-3.0.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/colorama-0.4.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cryptography-2.4.2-cp34-abi3-macosx_10_6_intel.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fabric-2.4.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/git_flow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gitflow_branch_commands" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/humanfriendly-4.18-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/idna-2.8-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/invoke-1.2.0-py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/isodate-0.6.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jmespath-0.9.4-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/knack-0.6.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mock-3.0.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/msrest-0.6.6-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/msrestazure-0.6.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/oauthlib-3.0.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/paramiko-2.4.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pip-19.1.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/portalocker-1.2.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/prompt_toolkit-2.0.9-py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/psutil-5.6.2.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pyOpenSSL-19.0.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pyasn1-0.4.5-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pycparser-2.19.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pydocumentdb-2.3.3.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pyperclip-1.7.0.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python_dateutil-2.8.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/pytz-2019.1-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/requests-2.22.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/requests_oauthlib-1.2.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scp-0.13.2-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/six-1.12.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sshtunnel-0.1.4.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tabulate-0.8.3.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/urllib3-1.25.3-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vsts-0.1.25-py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vsts-cd-manager-1.0.2.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wcwidth-0.1.7-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/websocket_client-0.56.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wheel-0.30.0-py2.py3-none-any.whl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xmltodict-0.12.0-py2.py3-none-any.whl" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/List/Remove_Method.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/List/Sort_Method_01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/List/insert_method.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/List/min_max_methods.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/List/pop_method.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/List/reverse_method.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/List/sort_method.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/Test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/tuple/Conversion_Functions_Tuple_List.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataTypes/tuple/CreatingTuple.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataTypes/List/List_Methods.py" afterPath="$PROJECT_DIR$/DataTypes/List/List_Methods.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -203,21 +25,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="List_DataTypes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTypes/List/List_DataTypes.py">
+      <file leaf-file-name="CreatingTuple.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/tuple/CreatingTuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            <state relative-caret-position="396">
+              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List_Methods.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Methods.py">
+      <file leaf-file-name="Conversion_Functions_Tuple_List.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DataTypes/tuple/Conversion_Functions_Tuple_List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <state relative-caret-position="304">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -244,7 +66,17 @@
         <option value="$PROJECT_DIR$/DataTypes/Numbers/Numbers_Methods.py" />
         <option value="$PROJECT_DIR$/DataTypes/Numbers/Numbers_Decimals.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/List_DataTypes.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Test.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/List_Methods.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/insert_method.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/Remove_Method.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/pop_method.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/reverse_method.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/sort_method.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/Sort_Method_01.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/min_max_methods.py" />
+        <option value="$PROJECT_DIR$/DataTypes/tuple/CreatingTuple.py" />
+        <option value="$PROJECT_DIR$/DataTypes/tuple/Conversion_Functions_Tuple_List.py" />
       </list>
     </option>
   </component>
@@ -270,6 +102,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -310,14 +143,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="List" />
+              <option name="myItemId" value="tuple" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,62 +169,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.List_Methods">
-    <configuration default="false" name="numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Numbers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Numbers/numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Numbers_Methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Numbers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Numbers/Numbers_Methods.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Numbers_Decimals" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Numbers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Numbers/Numbers_Decimals.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="List_DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Conversion_Functions_Tuple_List">
+    <configuration default="false" name="reverse_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -404,13 +182,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/List_DataTypes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/reverse_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="List_Methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Sort_Method_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -422,7 +200,61 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/List_Methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/Sort_Method_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="min_max_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_7am_May_2019" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/min_max_methods.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CreatingTuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/tuple" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_7am_May_2019" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/tuple/CreatingTuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Conversion_Functions_Tuple_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/tuple" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_7am_May_2019" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/tuple/Conversion_Functions_Tuple_List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -504,19 +336,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.numbers" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Numbers_Methods" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Numbers_Decimals" />
-      <item index="3" class="java.lang.String" itemvalue="Python.List_DataTypes" />
-      <item index="4" class="java.lang.String" itemvalue="Python.List_Methods" />
+      <item index="0" class="java.lang.String" itemvalue="Python.reverse_method" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Sort_Method_01" />
+      <item index="2" class="java.lang.String" itemvalue="Python.min_max_methods" />
+      <item index="3" class="java.lang.String" itemvalue="Python.CreatingTuple" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Conversion_Functions_Tuple_List" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.List_Methods" />
-        <item index="1" class="java.lang.String" itemvalue="Python.List_DataTypes" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Numbers_Decimals" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Numbers_Methods" />
-        <item index="4" class="java.lang.String" itemvalue="Python.numbers" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Conversion_Functions_Tuple_List" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CreatingTuple" />
+        <item index="2" class="java.lang.String" itemvalue="Python.min_max_methods" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Sort_Method_01" />
+        <item index="4" class="java.lang.String" itemvalue="Python.reverse_method" />
       </list>
     </recent_temporary>
   </component>
@@ -537,7 +369,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2584814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2625202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -565,11 +397,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_DataTypes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="17" lean-forward="true" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -630,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-137">
           <caret line="47" column="3" lean-forward="false" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -638,7 +484,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -646,22 +491,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#25#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/List/List_DataTypes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="348">
+          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Methods.py">
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/insert_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        <state relative-caret-position="228">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/Remove_Method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/pop_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/reverse_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/sort_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/Sort_Method_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/min_max_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/tuple/CreatingTuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/tuple/Conversion_Functions_Tuple_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>

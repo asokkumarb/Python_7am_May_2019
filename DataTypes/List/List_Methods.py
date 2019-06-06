@@ -26,8 +26,6 @@ del aws[5]
 
 print(list(enumerate(aws)))
 
-"""
-
 # extend()
 
 vcs_github = ['Movie','Rating','Year']
@@ -42,3 +40,4 @@ vcs_github.extend(raw_data)
 print(vcs_github)
 print(raw_data)
 
+"""
