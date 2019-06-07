@@ -27,7 +27,7 @@ print(len(_007))
 
 print(_007.ljust(15,'*'))
 
-print(_007.rjust(15,'&'))
+print(_007.rjust(12,'&'))
 
 
 
