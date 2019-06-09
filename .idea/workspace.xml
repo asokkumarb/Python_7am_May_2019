@@ -83,7 +83,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="346" />
+    <option name="x" value="345" />
     <option name="y" value="50" />
     <option name="width" value="1445" />
     <option name="height" value="1040" />
@@ -324,7 +324,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="277" y="40" width="1156" height="832" extended-state="0" />
+    <frame x="276" y="40" width="1156" height="832" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2922252" />
       <window_info id="Structure" order="1" weight="0.25" />
