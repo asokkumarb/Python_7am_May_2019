@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29dd4642-1c72-4b34-8b2e-247ad40bc66b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_DataType.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/list_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/numbers_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/numers_decimals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Count().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Del ( ).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Extend( ).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/List/List_DataType.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/List/List_DataType.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/List/list_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignments/Test - 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hd.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Append().py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,9 +18,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/List/List_DataType.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Method/Del ( ).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataTypes/List/list_methods.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Method/Extend( ).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -76,15 +99,20 @@
         <option value="$PROJECT_DIR$/DataTypes/String/ljust.py" />
         <option value="$PROJECT_DIR$/DataTypes/Numbers/numbers.py" />
         <option value="$PROJECT_DIR$/DataTypes/Numbers/numbers_methods.py" />
-        <option value="$PROJECT_DIR$/DataTypes/List/List_DataType.py" />
         <option value="$PROJECT_DIR$/DataTypes/Numbers/numers_decimals.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/list_methods.py" />
+        <option value="$PROJECT_DIR$/Assignments/Test - 1.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/List_Method/Append().py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/List_Method/Count().py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/List_DataType.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/List_Method/Del ( ).py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/List_Method/Extend( ).py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="345" />
-    <option name="y" value="50" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="237" />
+    <option name="y" value="402" />
     <option name="width" value="1445" />
     <option name="height" value="1040" />
   </component>
@@ -100,6 +128,24 @@
             <path>
               <item name="Python_7am_May_2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_7am_May_2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_7am_May_2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_7am_May_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_7am_May_2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_7am_May_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_7am_May_2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_7am_May_2019" type="462c0819:PsiDirectoryNode" />
+              <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
+              <item name="List" type="462c0819:PsiDirectoryNode" />
+              <item name="List_Method" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -169,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.string_special _opertors (1)">
+  <component name="RunManager" selected="Python.Extend( )">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/bin/bash" />
@@ -181,7 +227,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="Index_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Append()" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,11 +235,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List/List_Method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/String/Index_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/List_Method/Append().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +248,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rfind" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Count()" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +256,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List/List_Method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/String/rfind.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/List_Method/Count().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rindex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Del ( )" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,11 +277,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List/List_Method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/String/rindex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/List_Method/Del ( ).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +290,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_special _opertors (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Extend( )" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +298,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List/List_Method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/String/string_special _opertors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/List_Method/Extend( ).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_special _opertors" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="List_DataType" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\HD\Python_7am_May_2019\DataTypes\String\string_special _opertors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/List_DataType.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -302,11 +348,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.string_special _opertors (1)" />
-        <item itemvalue="Python.string_special _opertors" />
-        <item itemvalue="Python.Index_method" />
-        <item itemvalue="Python.rindex" />
-        <item itemvalue="Python.rfind" />
+        <item itemvalue="Python.Extend( )" />
+        <item itemvalue="Python.Del ( )" />
+        <item itemvalue="Python.Append()" />
+        <item itemvalue="Python.List_DataType" />
+        <item itemvalue="Python.Count()" />
       </list>
     </recent_temporary>
   </component>
@@ -324,14 +370,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="276" y="40" width="1156" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2922252" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2161269" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24220963" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31303117" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -467,13 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/String/format_method_stringspecial.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -507,9 +547,6 @@
     <entry file="file://$PROJECT_DIR$/DataTypes/String/replace.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/strip.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/String/split.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -541,9 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_DataType.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/numbers.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -553,8 +587,59 @@
     <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/numers_decimals.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/hd.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignments/Test - 1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/List/list_methods.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/String/Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/String/strip.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Method/Count().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_DataType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Method/Append().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Method/Del ( ).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Method/Extend( ).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
