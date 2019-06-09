@@ -30,6 +30,7 @@ o/p -
 ['Virat', 'Parthiv', 'Chahal', 'Michel', 'Stoinis', 'Ali', 3]
 
 ['Michel', 'Stoinis', 'Ali', 'Virat', 'Parthiv', 'Chahal', 'Michel', 'Stoinis', 'Ali', 3]
+
 '''
 
 
