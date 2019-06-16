@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29dd4642-1c72-4b34-8b2e-247ad40bc66b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypes/Convertion_in_other_Datatype/Conversion_Functions_Tuple_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Insert( ).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Min_Max_Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Pop( ).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Remove( ).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Reverse( ).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Sort( ).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Tupel/Creating a Tupal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/1. overview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/Clear ( ).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/Key and Value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/Updating Dect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/copy().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/fromkeys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/get ( ).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dictionaries/setdefault.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/List/1. overview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/1. overview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/String/1. overview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Tupel/1. Overview tupel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Tupel/delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Tupel/min and max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Tupel/update tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/List/List_Method/Extend( ).py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/List/List_Method/Extend( ).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,9 +30,85 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/copy().py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/fromkeys.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Tupel/1. Overview tupel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/String/1. overview.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/1. overview.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="450" column="33" lean-forward="true" selection-start-line="450" selection-start-column="33" selection-end-line="450" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/List/1. overview.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataTypes/Convertion_in_other_Datatype/Conversion_Functions_Tuple_List.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/1. overview.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/setdefault.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -46,24 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataTypes/String/Strings.py" />
-        <option value="$PROJECT_DIR$/List of Built in function.py" />
-        <option value="$PROJECT_DIR$/List Of Built In Function" />
-        <option value="$PROJECT_DIR$/Creating a Variable.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/reminder_format_Operator.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/format_method_stringspecial.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/Center.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/islower.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/isupper.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/isalpha.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/isspace.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/istitle.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/isnumeric_and_isdigit.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/isalnum.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/rindex.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/rfind.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/Find.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/Index_method.py" />
         <option value="$PROJECT_DIR$/DataTypes/String/format method.py" />
         <option value="$PROJECT_DIR$/DataTypes/String/string_special _opertors.py" />
         <option value="$PROJECT_DIR$/DataTypes/String/capitalize.py" />
@@ -97,12 +164,30 @@
         <option value="$PROJECT_DIR$/DataTypes/Tupel/Creating a Tupal.py" />
         <option value="$PROJECT_DIR$/DataTypes/Conversion_in_other_dataType.py" />
         <option value="$PROJECT_DIR$/DataTypes/Convertion_in_other_Datatype/Conversion_Functions_Tuple_List.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tupel/delete.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tupel/min and max.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tupel/update tuple.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/Basics.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/Updating Dect.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/delete.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/Clear ( ).py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/get ( ).py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/Key and Value.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/items.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/copy().py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/setdefault.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/fromkeys.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tupel/1. Overview tupel.py" />
+        <option value="$PROJECT_DIR$/DataTypes/String/1. overview.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/1. overview.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/1. overview.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dictionaries/1. overview.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="265" />
-    <option name="y" value="110" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="325" />
+    <option name="y" value="506" />
     <option name="width" value="1445" />
     <option name="height" value="1040" />
   </component>
@@ -118,11 +203,6 @@
             <path>
               <item name="Python_7am_May_2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_7am_May_2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_7am_May_2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_7am_May_2019" type="462c0819:PsiDirectoryNode" />
-              <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -192,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Built_in_dataType_Function">
+  <component name="RunManager" selected="Python.1. overview">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/bin/bash" />
@@ -204,7 +284,7 @@
       <envs />
       <method />
     </configuration>
-    <configuration name="Built_in_dataType_Function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1. overview" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Convertion_in_other_Datatype" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Numbers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Convertion_in_other_Datatype/Built_in_dataType_Function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Numbers/1. overview.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Conversion_Functions_Tuple_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="copy()" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,11 +313,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Convertion_in_other_Datatype" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Convertion_in_other_Datatype/Conversion_Functions_Tuple_List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dictionaries/copy().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Creating a Tupal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fromkeys" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +334,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Tupel" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Tupel/Creating a Tupal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dictionaries/fromkeys.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +347,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Extend( )" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="items" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,11 +355,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List/List_Method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/List_Method/Extend( ).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dictionaries/items.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,7 +368,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Min_Max_Method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="setdefault" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,11 +376,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List/List_Method" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/List_Method/Min_Max_Method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dictionaries/setdefault.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -325,11 +405,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Built_in_dataType_Function" />
-        <item itemvalue="Python.Conversion_Functions_Tuple_List" />
-        <item itemvalue="Python.Creating a Tupal" />
-        <item itemvalue="Python.Min_Max_Method" />
-        <item itemvalue="Python.Extend( )" />
+        <item itemvalue="Python.1. overview" />
+        <item itemvalue="Python.fromkeys" />
+        <item itemvalue="Python.setdefault" />
+        <item itemvalue="Python.copy()" />
+        <item itemvalue="Python.items" />
       </list>
     </recent_temporary>
   </component>
@@ -347,16 +427,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="212" y="88" width="1156" height="832" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2922252" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2161269" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3157143" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31444758" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39660057" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -371,128 +451,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Git config and command/2019-05-28_Notes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/Center.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/Find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/isalnum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/Index_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="79" lean-forward="true" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/isalpha.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/islower.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/isnumeric_and_isdigit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/isspace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/istitle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/isupper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/rfind.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/rindex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/format_method_stringspecial.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/reminder_format_Operator.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/string_special _opertors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/Join.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/capitalize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/format method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/replace.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/String/split.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -533,15 +491,11 @@
     <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/numers_decimals.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hd.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hd.py" />
     <entry file="file://$PROJECT_DIR$/Assignments/Test - 1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/List/list_methods.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/list_methods.py" />
     <entry file="file://$PROJECT_DIR$/DataTypes/String/Strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -622,9 +576,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/Conversion_in_other_dataType.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Conversion_in_other_dataType.py" />
     <entry file="file://$PROJECT_DIR$/DataTypes/List/List_Method/Min_Max_Method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
@@ -632,15 +584,159 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/Tupel/Creating a Tupal.py">
+    <entry file="file://$PROJECT_DIR$/DataTypes/Convertion_in_other_Datatype/Conversion_Functions_Tuple_List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        <state relative-caret-position="153">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/Convertion_in_other_Datatype/Conversion_Functions_Tuple_List.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="1739" column="26" lean-forward="true" selection-start-line="1739" selection-start-column="26" selection-end-line="1739" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tupel/min and max.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tupel/delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tupel/update tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tupel/Creating a Tupal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/Basics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/Updating Dect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/Clear ( ).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/get ( ).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/Key and Value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/copy().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/setdefault.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/fromkeys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tupel/1. Overview tupel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/String/1. overview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/1. overview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="450" column="33" lean-forward="true" selection-start-line="450" selection-start-column="33" selection-end-line="450" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/1. overview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dictionaries/1. overview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
