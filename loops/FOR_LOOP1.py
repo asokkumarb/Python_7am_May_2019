@@ -25,5 +25,17 @@ for i in range(1,11):
 
 #print(len(name))
 
+"""
 for i in name:
     print(i)
+"""
+
+#!/usr/bin/python
+
+var=input("Enter a String: ")
+
+for letter in var:
+    if(letter==' '):
+        break
+    else:
+        print(letter)
