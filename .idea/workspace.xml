@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29dd4642-1c72-4b34-8b2e-247ad40bc66b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/Function_Arguments.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/Functions_Overview.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exception_Handling/Exception_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exception_Handling/Overview_ExceptionHandling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exception_Handling/SYS_Example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exception_Handling/While_Exception.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/loops/FOR_LOOP1.py" afterPath="$PROJECT_DIR$/loops/FOR_LOOP1.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,22 +18,34 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Functions_Overview.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions/Functions_Overview.py">
+      <file leaf-file-name="Overview_ExceptionHandling.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exception_Handling/Overview_ExceptionHandling.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8464">
-              <caret line="368" column="2" lean-forward="false" selection-start-line="368" selection-start-column="2" selection-end-line="368" selection-end-column="2" />
+            <state relative-caret-position="253">
+              <caret line="71" column="18" lean-forward="false" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Function_Arguments.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/Function_Arguments.py">
+      <file leaf-file-name="Exception_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exception_Handling/Exception_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+            <state relative-caret-position="372">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SYS_Example.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exception_Handling/SYS_Example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,11 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataTypes/String/String_Methods.py" />
-        <option value="$PROJECT_DIR$/DataTypes/String/Strings.py" />
-        <option value="$PROJECT_DIR$/DataTypes/Numbers/numbers.py" />
-        <option value="$PROJECT_DIR$/DataTypes/Numbers/Numbers_Methods.py" />
-        <option value="$PROJECT_DIR$/DataTypes/Numbers/Numbers_Decimals.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/List_DataTypes.py" />
         <option value="$PROJECT_DIR$/DataTypes/Test.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/List_Methods.py" />
@@ -103,6 +111,11 @@
         <option value="$PROJECT_DIR$/Conditional_Statements/Functions/Functions_Overview.py" />
         <option value="$PROJECT_DIR$/Functions/Function_Arguments.py" />
         <option value="$PROJECT_DIR$/Functions/Functions_Overview.py" />
+        <option value="$PROJECT_DIR$/Functions/Local_Global_Variables.py" />
+        <option value="$PROJECT_DIR$/Exception_Handling/Overview_ExceptionHandling.py" />
+        <option value="$PROJECT_DIR$/Exception_Handling/Exception_1.py" />
+        <option value="$PROJECT_DIR$/Exception_Handling/While_Exception.py" />
+        <option value="$PROJECT_DIR$/Exception_Handling/SYS_Example.py" />
       </list>
     </option>
   </component>
@@ -128,7 +141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -151,7 +164,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Functions" />
+              <option name="myItemId" value="Exception_Handling" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,7 +184,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,62 +209,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Function_Arguments">
-    <configuration default="false" name="Nested_If" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Conditional_Statements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conditional_Statements/Nested_If.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="overview" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops/overview.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FOR_LOOP1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops/FOR_LOOP1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Functions_Overview" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SYS_Example">
+    <configuration default="false" name="Local_Global_Variables" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -263,25 +222,79 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/Functions_Overview.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/Local_Global_Variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Function_Arguments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Overview_ExceptionHandling" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python_7am_May_2019" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Functions/Function_Arguments.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception_Handling/Overview_ExceptionHandling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Exception_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception_Handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_7am_May_2019" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception_Handling/Exception_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="While_Exception" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception_Handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_7am_May_2019" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception_Handling/While_Exception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SYS_Example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception_Handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python_7am_May_2019" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception_Handling/SYS_Example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Nested_If" />
-      <item index="1" class="java.lang.String" itemvalue="Python.overview" />
-      <item index="2" class="java.lang.String" itemvalue="Python.FOR_LOOP1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Functions_Overview" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Function_Arguments" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Local_Global_Variables" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Overview_ExceptionHandling" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Exception_1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.While_Exception" />
+      <item index="4" class="java.lang.String" itemvalue="Python.SYS_Example" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Function_Arguments" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Functions_Overview" />
-        <item index="2" class="java.lang.String" itemvalue="Python.FOR_LOOP1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.overview" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Nested_If" />
+        <item index="0" class="java.lang.String" itemvalue="Python.SYS_Example" />
+        <item index="1" class="java.lang.String" itemvalue="Python.While_Exception" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Exception_1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Overview_ExceptionHandling" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Local_Global_Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -394,16 +407,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25282714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16801292" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40958905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33835617" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36301368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36301368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -426,35 +438,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/format_method_stringspecial.py" />
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/String/String_Methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="359" column="15" lean-forward="false" selection-start-line="359" selection-start-column="15" selection-end-line="359" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-137">
-          <caret line="47" column="3" lean-forward="false" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/Numbers_Methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -734,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="36" column="18" lean-forward="true" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,23 +731,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions/Function_Arguments.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        <state relative-caret-position="279">
+          <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions/Functions_Overview.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8464">
-          <caret line="368" column="2" lean-forward="false" selection-start-line="368" selection-start-column="2" selection-end-line="368" selection-end-column="2" />
+        <state relative-caret-position="22">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Local_Global_Variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception_Handling/Overview_ExceptionHandling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="71" column="18" lean-forward="false" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception_Handling/While_Exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception_Handling/Exception_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception_Handling/SYS_Example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
