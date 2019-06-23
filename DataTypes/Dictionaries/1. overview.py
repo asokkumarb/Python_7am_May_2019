@@ -4,7 +4,7 @@ Python Data Types - Dictionaries
 
 #!/usr/bin/python
 
-''' >>> dir(dict) 
+''' >>> dir(dict)
 '''
 ['__class__', '__contains__', '__delattr__', '__delitem__', '__dir__', '__doc__',
  '__eq__', '__format__', '__ge__', '__getattribute__', '__getitem__', '__gt__',
