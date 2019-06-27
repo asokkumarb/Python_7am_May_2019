@@ -2,14 +2,14 @@
 
 import smtplib
 
-TO='keshav.kummari@gmail.com'
+TO='ckk.cloud@gmail.com'
 
 SUBJECT='Send email using SMTPLIB in Python'
 
 TEXT='Here is the message we would like to send'
 
 # Gmail Credentials:
-gmail_sender='keshavckk@gmail.com'
+gmail_sender='keshav.kummari@gmail.com'
 gmail_passwd='Admin@123'
 
 server=smtplib.SMTP('smtp.gmail.com',587)
