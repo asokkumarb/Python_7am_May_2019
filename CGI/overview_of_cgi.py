@@ -1,10 +1,8 @@
-# cd /var/www/html
-
-# vi index.html
+vi index.html
 
 <html>
 <head>
-<title>Code with Keshav Kummari</title>
+<title>Code With Keshav Kummari</title>
 </head>
 
 <body bgcolor="olive">
@@ -12,7 +10,6 @@
 <h1> Welcome to Python World </h1>
 
 <h2> Select your course option </h2>
-
 <form action="/cgi-bin/checkbox.py" method="GET" target="_blank">
 First Name : <input type="" name="FirstName"/>
 Last Name  : <input type="" name="LastName"/>
@@ -24,29 +21,34 @@ Last Name  : <input type="" name="LastName"/>
 </body>
 </html>
 
-# vi checkbox.py
 
+[root@dev html]# cat ../cgi-bin/checkbox.py
+#!/usr/bin/python
+
+# Import modules for CGI handling
 import cgi, cgitb
 
+# Create instance of FieldStorage
 form = cgi.FieldStorage()
 
+# Get data from fields
 if form.getvalue('Python'):
-    course_python = "You have selected Python Course"
+        course_flag = "Learn Python By Doing!"
 else:
-    course_python = "You have not selected any Course"
+   course_flag = "Course Was Not Selected"
 
 if form.getvalue('Perl'):
-    course_perl = "You have selected PERL Course"
+   Perl_flag = "Learn Perl By Doing!"
 else:
-    course_perl = "You have not selected any Course"
+   Perl_flag = "Course Was Not Selected"
 
 print ("Content-type:text/html\r\n\r\n")
 print ("<html>")
 print ("<head>")
-print ("<title>Checkbox - CGI Program</title>")
+print ("<title>Checkbox - Third CGI Program</title>")
 print ("</head>")
 print ("<body>")
-print ("<h2> CheckBox Python is : %s</h2>" % course_python)
-print ("<h2> CheckBox Perl is : %s</h2>" % course_perl)
+print ("<h2> You have Selected Python : %s</h2>" % course_flag)
+print ("<h2> You have selected Perl : %s</h2>" % Perl_flag)
 print ("</body>")
 print ("</html>")
