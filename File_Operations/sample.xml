@@ -1,0 +1,7 @@
+<Emp>
+    <firstName>Joel</firstName>
+	<lastName>Kummari</lastName>
+	<dob>20/10/1990</dob>
+	<gender>Male</gender>
+	<department>Finance</department>
+</Emp>
