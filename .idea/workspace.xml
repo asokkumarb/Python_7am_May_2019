@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29dd4642-1c72-4b34-8b2e-247ad40bc66b" name="Default" comment="num_datatype">
-      <change afterPath="$PROJECT_DIR$/Saurav/Datatypes/number/creating_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Saurav/Datatypes/number/list_insert_medhos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saurav/Datatypes/number/dictionary_basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Saurav/Datatypes/number/tuple_method.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,28 +24,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Saurav/Datatypes/number/list_methods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Saurav/Datatypes/number/list_insert_medhos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="2" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Saurav/Datatypes/number/tuple_method.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Saurav/Datatypes/number/creating_tuple.py">
+        <entry file="file://$PROJECT_DIR$/Saurav/Datatypes/number/dictionary_basic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="50" selection-start-column="50" selection-end-column="50" />
+            <state relative-caret-position="296">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -65,8 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exception_Handling/Overview_ExceptionHandling.py" />
-        <option value="$PROJECT_DIR$/Exception_Handling/Exception_1.py" />
         <option value="$PROJECT_DIR$/Exception_Handling/While_Exception.py" />
         <option value="$PROJECT_DIR$/Exception_Handling/SYS_Example.py" />
         <option value="$PROJECT_DIR$/Exception_Handling/ExceptionHandling_Recap.py" />
@@ -116,6 +101,8 @@
         <option value="$PROJECT_DIR$/Saurav/Datatypes/number/list_methods.py" />
         <option value="$PROJECT_DIR$/Saurav/Datatypes/number/list_insert_medhos.py" />
         <option value="$PROJECT_DIR$/Saurav/Datatypes/number/creating_tuple.py" />
+        <option value="$PROJECT_DIR$/Saurav/Datatypes/number/tuple_method.py" />
+        <option value="$PROJECT_DIR$/Saurav/Datatypes/number/dictionary_basic.py" />
       </list>
     </option>
   </component>
@@ -185,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.creating_tuple">
+  <component name="RunManager" selected="Python.dictionary_basic">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/bin/bash" />
@@ -210,6 +197,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Saurav/Datatypes/number/creating_tuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dictionary_basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_7am_May_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Saurav/Datatypes/number" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Saurav/Datatypes/number/dictionary_basic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -281,27 +289,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="numbers_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_7am_May_2019" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Saurav/Datatypes/number" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Saurav/Datatypes/number/numbers_method.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <module name="Python_7am_May_2019" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,19 +304,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.numbers_method" />
       <item itemvalue="Python.list" />
       <item itemvalue="Python.list_methods" />
       <item itemvalue="Python.list_insert_medhos" />
       <item itemvalue="Python.creating_tuple" />
+      <item itemvalue="Python.dictionary_basic" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dictionary_basic" />
         <item itemvalue="Python.creating_tuple" />
         <item itemvalue="Python.list_insert_medhos" />
         <item itemvalue="Python.list_methods" />
         <item itemvalue="Python.list" />
-        <item itemvalue="Python.numbers_method" />
       </list>
     </recent_temporary>
   </component>
@@ -383,20 +370,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="num_datatype" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exception_Handling/SYS_Example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exception_Handling/Overview_ExceptionHandling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="43" column="62" lean-forward="true" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exception_Handling/ExceptionHandling_Recap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -708,6 +681,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Saurav/Datatypes/number/tuple_method.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Saurav/Datatypes/number/dictionary_basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
         </state>
       </provider>
     </entry>
