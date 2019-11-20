@@ -31,7 +31,8 @@ print(c)
 
 """
 t = 'Saurav Sunil Monty'
-
 x =input('Enter your name :')
 
 print(x in t.lower())
+
+
