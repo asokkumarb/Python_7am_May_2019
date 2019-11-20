@@ -20,6 +20,18 @@ print(c)
 
 """
 
+"""
 a = 15
 b = 10
 print(bin(a|b))
+
+c = ~ a
+
+print(c)
+
+"""
+t = 'Saurav Sunil Monty'
+
+x =input('Enter your name :')
+
+print(x in t.lower())
