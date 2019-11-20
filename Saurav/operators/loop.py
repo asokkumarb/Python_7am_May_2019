@@ -34,9 +34,22 @@ for i in range(1, 5):
     print(num, 'x', i, '=', i*num)
 """
 
+"""
 name =input("Enter your name :")
 for i in name:
     print(i)
+"""
+
+
+x = input("Enter a value:")
+
+for banu in x:
+    if banu == ' ':
+        break
+    else:
+        print(banu)
+
+
 
 
 
