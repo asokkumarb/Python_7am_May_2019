@@ -30,12 +30,35 @@ print("Division is: ",c)
 
 """
 
-import os
-
 #print(os.getcwd())
 #print(os.listdir())
 #print(os.getpid())
 
 #os.mkdir("new_dir")
+"""
 print(os.chdir("/Users/g802199/Python_7am_May_2019/Saurav/"))
 print(os.getcwd())
+
+x = 15
+
+if x > 5:
+    raise Exception(f"x should not be greater than 5 but the current value of x is {x}")
+"""
+
+import sys
+
+def platform_check():
+    assert ('' in sys.platform), "Function can only run on Windows systems"
+    print("Hi, Welcome to Python World")
+
+try:
+    platform_check()
+except AssertionError as error:
+    print(error)
+    print("platform_check function was not executed")
+else:
+    print("Executing the Code")
+
+finally:
+    print("i m the final block")
+
