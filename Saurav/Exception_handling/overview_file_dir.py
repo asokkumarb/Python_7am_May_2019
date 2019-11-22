@@ -60,7 +60,7 @@ finally:
     file.close()
 """
 
-
+"""
 import os
 import fnmatch
 
@@ -70,7 +70,45 @@ patern = "*.py"
 for root,dirs,files in os.walk(path):
     for filename in fnmatch.filter(files,patern):
         print(os.path.join(filename))
+        
+ """
+
+"""
+
+import os
+relevant_path = "/Users/g802199/Python_7am_May_2019/Saurav/Exception_handling/"
+included_extensions = ['*py','*mp3']
+file_names = [fn for fn in os.listdir(relevant_path)
+              if any(fn.endswith(ext) for ext in included_extensions)]
+
+"""
+"""
+import os
+
+import fnmatch
+
+import glob
+
+x=fnmatch.filter(os.listdir('.'), '*.py')
+y=fnmatch.filter(os.listdir('.'), '*.mp3')
+print(x,y)
+
+#fnmatch.filter(os.listdir('/Users/g802199/Python_7am_May_2019/Saurav/Exception_handling/'), '*.py')
+"""
+import os
+
+import fnmatch
+
+import glob
+import re
+"""
+relevant_path = ("/Users/g802199/Python_7am_May_2019/Saurav/Exception_handling/")
+included_extensions = ['*.py', '*.mp3']
+file_names = [fn for fn in os.listdir('.')
+              if any(fn.endswith(ext) for ext in included_extensions)]
+print(file_names)
+
+"""
 
 
-
-
+print(files)
