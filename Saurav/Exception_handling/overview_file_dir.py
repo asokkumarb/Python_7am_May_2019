@@ -103,12 +103,12 @@ import glob
 import re
 """
 relevant_path = ("/Users/g802199/Python_7am_May_2019/Saurav/Exception_handling/")
-included_extensions = ['*.py', '*.mp3']
-file_names = [fn for fn in os.listdir('.')
+included_extensions = ['*.py' and '*.mp3']
+file_names = [fn for fn in os.listdir(relevant_path)
               if any(fn.endswith(ext) for ext in included_extensions)]
 print(file_names)
 
 """
 
 
-print(files)
+

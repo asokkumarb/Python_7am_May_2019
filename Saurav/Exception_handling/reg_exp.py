@@ -13,7 +13,7 @@ else:
 print(message)
 
 """
-
+"""
 import re
 
 pattern = 'this'
@@ -31,3 +31,9 @@ print('Found "%s" in "%s" from %d to %d ("%s")' % \
     (match.re.pattern, match.string, s, e, text[s:e]))
 
 print(f'start index is {s} and end index is {e} in a given "{text}" {text[s:e]}')
+"""
+
+
+
+
+
